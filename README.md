@@ -1,7 +1,7 @@
 ### Oi, eu sou o Sette!!
 
 - 🔭 Leciono informática/programação para o ensino médio integrado na Escola Estadual Professor Raymundo Martiniano Ferreira
-- 🌱 Estudando Análise e Desenvolvimento na PUC
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na PUC
 
 <div align="center">
   <a href="https://github.com/iugorsette">

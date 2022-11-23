@@ -1,6 +1,6 @@
 ### Oi, eu sou o Sette!!
 
-- 🔭 Leciono informática/programação para o ensino médio integrado na Escola Estadual Professor Raymundo Martiniano Ferreira
+- 🔭 Robotic Process Automation Developer
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas na PUC
 
 <div align="center">

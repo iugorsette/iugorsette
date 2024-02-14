@@ -1,6 +1,6 @@
 ### Hi, I am Sette!!
 
-- 🔭 Developer at Contajá
+- 🔭 Software Analyst and Developer at <a href="https://contaja.com.br/" target="_blank" >Contajá</a>.
 - 🌱 Studying Systems Analysis and Development at PUC
 
 <div align="center">

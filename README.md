@@ -24,7 +24,7 @@
     alt="Nest"
     height="60"
     width="80"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" 
+   src="https://nestjs.com/logo-small.ede75a6b.svg" 
    />
     <img 
     align="center"
@@ -37,10 +37,10 @@
     align="center" 
     alt="Node-Js" 
     height="60"
-    width="80" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+    width="75" 
+    src="https://github.com/iugorsette/iugorsette/assets/81201021/401d876b-7167-4476-9eb5-6cfabc7a53d3"
     />
- 
+
 </div>
   
   ##

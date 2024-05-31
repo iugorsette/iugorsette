@@ -4,13 +4,13 @@
 
 <summary> 🔭 Software Analyst and Developer at <a href="https://contaja.com.br/" target="_blank" >Contajá</a>.</summary>
 
-Performed a significant role in the RPA team, developing automations for systems such as web. These applications streamlined repetitive procedures, completing tasks in a fraction of the time it would take a team member, sometimes days.
+> Performed a significant role in the RPA team, developing automations for systems such as web. These applications streamlined repetitive procedures, completing tasks in a fraction of the time it would take a team member, sometimes days.
 Successfully tackled a major challenge by independently developing a full-stack application alongside the Product Owner. From design to deployment, I led the process. This system introduced an efficient inventory management solution, providing control over stock and items. It not only enhanced internal operations but also empowered employees to locate equipment by department.
 </details><details>
 
 <summary>🌱 Studying Systems Analysis and Development at PUC</summary>
 
-During my studies in Systems Analysis and Development at PUC, I achieve a comprehensive set of skills and knowledge essential for modern software development. I learned to create robust applications using ASP.NET Core, exploring both SQL and NoSQL databases to meet diverse data storage and management needs. I developed proficiency in front-end and mobile development with React and React Native, creating efficient and intuitive user interfaces. I also became familiar with agile methodologies, enabling me to manage projects effectively and collaboratively. Additionally, I studied testing practices to ensure software quality and data security techniques to protect sensitive information. I also has study into cloud computing, including hosting, networks, and deployments, which equipped me to implement and manage applications in production environments securely and scalably.
+> During my studies in Systems Analysis and Development at PUC, I achieve a comprehensive set of skills and knowledge essential for modern software development. I learned to create robust applications using ASP.NET Core, exploring both SQL and NoSQL databases to meet diverse data storage and management needs. I developed proficiency in front-end and mobile development with React and React Native, creating efficient and intuitive user interfaces. I also became familiar with agile methodologies, enabling me to manage projects effectively and collaboratively. Additionally, I studied testing practices to ensure software quality and data security techniques to protect sensitive information. I also has study into cloud computing, including hosting, networks, and deployments, which equipped me to implement and manage applications in production environments securely and scalably.
 </details>
 <div align="center">
   <a href="https://github.com/iugorsette">
@@ -70,22 +70,26 @@ During my studies in Systems Analysis and Development at PUC, I achieve a compre
 <details>
 
 <summary> 🎨 Frontend Development</summary> 
-Developed a web application using AngularJS for Warehouse Management System (WMS).
+
+> Developed a web application using AngularJS for Warehouse Management System (WMS).
 Created a web game in React JS utilizing a heroes API, allowing users to select heroes and compete against a bot.
 Developed a ReactJs web application for Task Management System.
 </details><details>
 
 <summary>🖥️ Backend Development</summary> 
-Created a back-end web application using NestJs and MySQL for Warehouse Management System (WMS).
+
+> Created a back-end web application using NestJs and MySQL for Warehouse Management System (WMS).
 Contributed to the development and enhancement of a backend API managing tasks for frontend integration.
 Collaborated on a password manager API project in .NET C# utilizing agile methodologies for improved collaboration and flexibility.
 </details><details>
   
 <summary>📱 Mobile Development</summary> 
-Designed and developed a React Native app for school purposes, serving as a mobile app for pizza delivery.
+
+> Designed and developed a React Native app for school purposes, serving as a mobile app for pizza delivery.
 </details><details>
   
 <summary>🤖 Automation</summary> 
-Developed and maintained automations for both web and desktop environments, using Python and JavaScript.
+
+> Developed and maintained automations for both web and desktop environments, using Python and JavaScript.
 Integrated systems with various platforms such as Google Sheets, Google Calendar, Google Drive, CRM webhooks, and APIs.
 </details>

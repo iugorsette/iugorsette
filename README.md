@@ -14,9 +14,8 @@ Successfully tackled a major challenge by independently developing a full-stack 
 </details>
 <div align="center">
   <a href="https://github.com/iugorsette">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iugorsette&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iugorsette&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iugorsette&layout=compact&langs_count=12&theme=dark"/>
+  </div>
     
 <div align="center"><br>
 

@@ -2,10 +2,9 @@
 
 <details>
 
-<summary> 🔭 Software Analyst and Developer at <a href="https://contaja.com.br/" target="_blank" >Contajá</a>.</summary>
+<summary> 🔭 FullStack Developer at <a href="https://teamsmartleiloes.com.br/" target="_blank" >Smart Leilões</a>.</summary>
 
-> Performed a significant role in the RPA team, developing automations for systems such as web. These applications streamlined repetitive procedures, completing tasks in a fraction of the time it would take a team member, sometimes days.
-Successfully tackled a major challenge by independently developing a full-stack application alongside the Product Owner. From design to deployment, I led the process. This system introduced an efficient inventory management solution, providing control over stock and items. It not only enhanced internal operations but also empowered employees to locate equipment by department.
+> 
 </details><details>
 
 <summary>🌱 Studying Systems Analysis and Development at PUC</summary>

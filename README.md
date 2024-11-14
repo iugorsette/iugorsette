@@ -31,7 +31,7 @@
     alt="Nest"
     height="60"
     width="80"
-   src="https://nestjs.com/logo-small-gradient.76616405.svg" 
+   src="https://nestjs.com/logo-small-gradient.d792062c.svg" 
    />
     <img 
     align="center"

@@ -1,104 +1,100 @@
-### Hi, I am Sette!!
+👋 Hi, I’m Sette!  
+FullStack Developer specialized in **Angular** and **NestJS**, delivering scalable applications with focus on performance, security, and great user experience.  
+I build solutions end-to-end: from **UI/UX design** to **deployment**.
+
+---
 
 <details>
-
-<summary> 🔭 FullStack Developer at <a href="https://teamsmartleiloes.com.br/" target="_blank" >Smart Leilões</a>.</summary>
+<summary> 💼 FullStack Developer at <a href="https://teamsmartleiloes.com.br/" target="_blank">Smart Leilões</a>.</summary>
 
   > Since aug-2024 until now
-  - Developed and maintained scalable web applications using Angular (frontend) and NestJS (backend).
+  - Developed and maintained scalable web applications using **Angular** (frontend) and **NestJS** (backend).
   - Designed and integrated RESTful APIs, enabling seamless communication between systems.
-  - Worked with MongoDB to build efficient and reliable data models.
-  - Applied state management with NgRx and reactive programming with RxJS to improve user experience.
-  - Collaborated in Agile/Scrum teams, contributing to sprint planning, code reviews, and continuous delivery (CI/CD).
-  - Monitored and deployed applications with Firebase, ensuring scalable and reliable environments.
-  - Focused on creating user-centered solutions that directly supported business growth and client satisfaction.
-
+  - Worked with **MongoDB** to build efficient and reliable data models.
+  - Applied **state management with NgRx** and **reactive programming with RxJS** to improve user experience.
+  - Collaborated in **Agile/Scrum teams**, contributing to sprint planning, code reviews, and CI/CD pipelines.
+  - Monitored and deployed applications with **Firebase**, ensuring scalable and reliable environments.
+  - Focused on creating **user-centered solutions** that directly supported business growth and client satisfaction.
 </details>
 
 <details>
+<summary>🎓 Graduated Systems Analysis and Development at PUC</summary>
 
-<summary>🌱 Graduated Systems Analysis and Development at PUC</summary>
-
-> During my studies in Systems Analysis and Development at PUC, I achieve a comprehensive set of skills and knowledge essential for modern software development. I learned to create robust applications using ASP.NET Core, exploring both SQL and NoSQL databases to meet diverse data storage and management needs. I developed proficiency in front-end and mobile development with React and React Native, creating efficient and intuitive user interfaces. I also became familiar with agile methodologies, enabling me to manage projects effectively and collaboratively. Additionally, I studied testing practices to ensure software quality and data security techniques to protect sensitive information. I also has study into cloud computing, including hosting, networks, and deployments, which equipped me to implement and manage applications in production environments securely and scalably.
+> During my studies at PUC, I built a strong foundation in modern software development.  
+I developed applications with **ASP.NET Core**, explored **SQL and NoSQL** databases, and gained proficiency in **React** and **React Native**.  
+I also worked with **agile methodologies**, **testing practices**, **data security**, and **cloud computing**, preparing me to deliver scalable, secure, and reliable applications in production environments.
 </details>
-<!-- <div align="center">
-  <a href="https://github.com/iugorsette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iugorsette&layout=compact&langs_count=12&theme=dark"/>
-  </div> -->
-   
-
-### SKILLS AND EXPERIENCE
 
 <details>
+<summary>🛠️ Available for Freelance / PJ Work</summary>
 
-<summary> 🎨 Frontend Development</summary> 
+> In addition to my full-time role, I also work as a **PJ developer**, delivering complete applications from **design to deployment**.  
+I can take care of the entire process: requirements gathering, design (UI/UX), development (frontend & backend), testing, and deployment to production.  
+I offer **fixed-price projects** after requirement analysis, ensuring transparency and commitment to delivery.  
 
-> Developed a web application using AngularJS for Warehouse Management System (WMS).
-Created a web game in React JS utilizing a heroes API, allowing users to select heroes and compete against a bot.
-Developed a ReactJs web application for Task Management System.
-</details><details>
+📩 **iugorsette@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/iugor-sette-66a0a0185/) | 💬 [WhatsApp](https://wa.me/5531988071497?text=Ol%C3%A1%20Sette%2C%20tenho%20interesse%20em%20conversar%20sobre%20um%20projeto!)
+</details>
 
-<summary>🖥️ Backend Development</summary> 
+---
 
-> Created a back-end web application using NestJs and MySQL for Warehouse Management System (WMS).
-Contributed to the development and enhancement of a backend API managing tasks for frontend integration.
-Collaborated on a password manager API project in .NET C# utilizing agile methodologies for improved collaboration and flexibility.
-</details><details>
-  
+### 💻 SKILLS AND EXPERIENCE
+
+<details>
+<summary> 🎨 Frontend Development (Angular)</summary>
+
+> Proficient in **Angular** with solid experience building dynamic and scalable web applications.  
+Specialized in **state management (NgRx)** and **reactive programming (RxJS)** to create responsive and maintainable solutions.  
+I deliver applications with a strong focus on **UI/UX**, **design patterns**, and **responsiveness**, ensuring usability and accessibility standards.  
+
+- Expertise with **PrimeNG**, **Angular Material**, and **TailwindCSS**.  
+- Implementation of **pipes**, **custom directives**, and **dependency injection**.  
+- Advanced handling of **routing**, **lazy loading**, and **drag-and-drop features**.  
+- Application of **design patterns** for modular, scalable codebases.  
+</details>
+
+<details>
+<summary>🖥️ Backend Development (NestJS)</summary>
+
+> Strong proficiency in **NestJS**, developing secure, scalable, and high-performance backends.  
+Focused on building APIs, real-time communication systems, and database integrations.  
+
+- Implementation of **WebSockets** for real-time applications.  
+- Database management with **MongoDB**, **SQL**, and **Firestore**.  
+- Advanced security: **JWT authentication**, **encryption**, **CORS control**, **serialization**, and **session handling**.  
+- API design with **REST** and **GraphQL**.  
+- Development of **custom decorators**, **file uploading**, and detailed **logging & monitoring** systems.  
+</details>
+
+<details>
 <summary>📱 Mobile Development</summary> 
 
-> Designed and developed a React Native app for school purposes, serving as a mobile app for pizza delivery.
-</details><details>
-  
-<summary>🤖 Automation</summary> 
-
-> Developed and maintained automations for both web and desktop environments, using Python and JavaScript.
-Integrated systems with various platforms such as Google Sheets, Google Calendar, Google Drive, CRM webhooks, and APIs.
+> Designed and developed a **React Native** app for school purposes, serving as a pizza delivery mobile application.
 </details>
 
+<details>
+<summary>🤖 Automation</summary> 
+
+> Developed and maintained automations for both web and desktop environments using **Python** and **JavaScript**.  
+Integrated systems with **Google Sheets**, **Google Calendar**, **Google Drive**, CRMs, webhooks, and APIs.  
+</details>
+
+---
+
+###  🚀 MAIN STACKS
 <div align="center"><br>
-
- 
-  <img 
-    align="center"
-    alt="React"
-    height="60"
-    width="80"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    />
- <img 
-   align="center"
-    alt="Nest"
-    height="60"
-    width="80"
-   src="https://nestjs.com/logo-small-gradient.d792062c.svg" 
-   />
-    <img 
-    align="center"
-    alt="Angular" 
-    height="60" 
-    width="80" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-    />
-  <img 
-    align="center" 
-    alt="Node-Js" 
-    height="60"
-    width="75" 
-    src="https://github.com/iugorsette/iugorsette/assets/81201021/401d876b-7167-4476-9eb5-6cfabc7a53d3"
-    />
-
+  <img align="center" alt="Angular" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="NestJS" height="60" width="80" src="https://nestjs.com/logo-small-gradient.d792062c.svg"/>
 </div>
 
- ## 
-<div  >
-  <a href="https://instagram.com/iugorsette" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/iugorsette" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/4eyNsXapdt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:iugorsette@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iugor-sette-66a0a0185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/iugorsette" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
- 
-</div>
+---
 
-  
+### 📬 Contact
+<div>
+  <a href="https://instagram.com/iugorsette" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitch.tv/iugorsette" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://discord.gg/4eyNsXapdt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:iugorsette@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/iugor-sette-66a0a0185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://gitlab.com/iugorsette" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+  <a href="https://wa.me/5531988071497?text=Ol%C3%A1%20Sette%2C%20tenho%20interesse%20em%20conversar%20sobre%20um%20projeto!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>

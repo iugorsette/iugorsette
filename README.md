@@ -4,18 +4,58 @@
 
 <summary> 🔭 FullStack Developer at <a href="https://teamsmartleiloes.com.br/" target="_blank" >Smart Leilões</a>.</summary>
 
-> 
-</details><details>
+  > Since aug-2024 until now
+  - Developed and maintained scalable web applications using Angular (frontend) and NestJS (backend).
+  - Designed and integrated RESTful APIs, enabling seamless communication between systems.
+  - Worked with MongoDB to build efficient and reliable data models.
+  - Applied state management with NgRx and reactive programming with RxJS to improve user experience.
+  - Collaborated in Agile/Scrum teams, contributing to sprint planning, code reviews, and continuous delivery (CI/CD).
+  - Monitored and deployed applications with Firebase, ensuring scalable and reliable environments.
+  - Focused on creating user-centered solutions that directly supported business growth and client satisfaction.
 
-<summary>🌱 Studying Systems Analysis and Development at PUC</summary>
+</details>
+
+<details>
+
+<summary>🌱 Graduated Systems Analysis and Development at PUC</summary>
 
 > During my studies in Systems Analysis and Development at PUC, I achieve a comprehensive set of skills and knowledge essential for modern software development. I learned to create robust applications using ASP.NET Core, exploring both SQL and NoSQL databases to meet diverse data storage and management needs. I developed proficiency in front-end and mobile development with React and React Native, creating efficient and intuitive user interfaces. I also became familiar with agile methodologies, enabling me to manage projects effectively and collaboratively. Additionally, I studied testing practices to ensure software quality and data security techniques to protect sensitive information. I also has study into cloud computing, including hosting, networks, and deployments, which equipped me to implement and manage applications in production environments securely and scalably.
 </details>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/iugorsette">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iugorsette&layout=compact&langs_count=12&theme=dark"/>
-  </div>
-    
+  </div> -->
+   
+
+### SKILLS AND EXPERIENCE
+
+<details>
+
+<summary> 🎨 Frontend Development</summary> 
+
+> Developed a web application using AngularJS for Warehouse Management System (WMS).
+Created a web game in React JS utilizing a heroes API, allowing users to select heroes and compete against a bot.
+Developed a ReactJs web application for Task Management System.
+</details><details>
+
+<summary>🖥️ Backend Development</summary> 
+
+> Created a back-end web application using NestJs and MySQL for Warehouse Management System (WMS).
+Contributed to the development and enhancement of a backend API managing tasks for frontend integration.
+Collaborated on a password manager API project in .NET C# utilizing agile methodologies for improved collaboration and flexibility.
+</details><details>
+  
+<summary>📱 Mobile Development</summary> 
+
+> Designed and developed a React Native app for school purposes, serving as a mobile app for pizza delivery.
+</details><details>
+  
+<summary>🤖 Automation</summary> 
+
+> Developed and maintained automations for both web and desktop environments, using Python and JavaScript.
+Integrated systems with various platforms such as Google Sheets, Google Calendar, Google Drive, CRM webhooks, and APIs.
+</details>
+
 <div align="center"><br>
 
  
@@ -49,37 +89,6 @@
     />
 
 </div>
-  
-
-### SKILLS AND EXPERIENCE
-
-<details>
-
-<summary> 🎨 Frontend Development</summary> 
-
-> Developed a web application using AngularJS for Warehouse Management System (WMS).
-Created a web game in React JS utilizing a heroes API, allowing users to select heroes and compete against a bot.
-Developed a ReactJs web application for Task Management System.
-</details><details>
-
-<summary>🖥️ Backend Development</summary> 
-
-> Created a back-end web application using NestJs and MySQL for Warehouse Management System (WMS).
-Contributed to the development and enhancement of a backend API managing tasks for frontend integration.
-Collaborated on a password manager API project in .NET C# utilizing agile methodologies for improved collaboration and flexibility.
-</details><details>
-  
-<summary>📱 Mobile Development</summary> 
-
-> Designed and developed a React Native app for school purposes, serving as a mobile app for pizza delivery.
-</details><details>
-  
-<summary>🤖 Automation</summary> 
-
-> Developed and maintained automations for both web and desktop environments, using Python and JavaScript.
-Integrated systems with various platforms such as Google Sheets, Google Calendar, Google Drive, CRM webhooks, and APIs.
-</details>
-
 
  ## 
 <div  >
@@ -92,3 +101,4 @@ Integrated systems with various platforms such as Google Sheets, Google Calendar
  
 </div>
 
+  
